@@ -1,0 +1,19 @@
+c:\users\softech\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+c:\users\softech\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+c:\users\softech\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+c:\users\softech\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+c:\users\softech\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+c:\users\softech\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+c:\users\softech\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+c:\users\softech\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+c:\users\softech\documents\visual studio 2013\Projects\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.LoaiHang.resources
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\PC\Downloads\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
